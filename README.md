@@ -20,7 +20,7 @@ In `qwert` mode (`progrm`+`F3`):
 ### Thumb Key Layout
 
         ---------     ---------
-        |Cmd|PUp|     |PDo|Cmd|
+        | ⌘ |PUp|     |PDo| ⌘ |
     ____|---|---|     |---|---|___
     | B | D |Ctr|     |Ctr| E | S |
     | a | e |---|     |---| n | p |
