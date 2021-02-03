@@ -6,4 +6,3 @@
 [kp-rctrl]>[kp-rwin]
 [rwin]>[rctrl]
 [kp-rwin]>[kp-rctrl]
-

@@ -22,9 +22,9 @@ In `qwert` mode (`progrm`+`F3`):
         ---------     ---------
         | ⌘ |PUp|     |PDo| ⌘ |
     ____|---|---|     |---|---|___
-    | B | D |Ctr|     |Ctr| E | S |
+    | B | D |Alt|     |Alt| E | S |
     | a | e |---|     |---| n | p |
-    | c | l |Alt|     |Alt| t | a |
+    | c | l |Ctr|     |Ctr| t | a |
     -------------     -------------
 
 ### Other key swaps
