@@ -29,5 +29,12 @@ In `qwert` mode (`progrm`+`F3`):
 
 ### Other key swaps
 
-- Esc & Caps Lock
-- +/= & `/~
+- `+`/`=` & `` ` ``/`~`
+- Shift keys are moved up one row
+- Left shift becomes escape
+- Right shift becomes `'`/`"`
+- The left hand `\`/`|` becomes Caps Lock (which is assgined to `fn` in the OS)
+
+### Colemak layer
+
+![image](https://github.com/dduugg/kinesis-advantage2/assets/697964/c1bb2c91-b4a2-4eaa-8f1d-f39c02678f9e)
